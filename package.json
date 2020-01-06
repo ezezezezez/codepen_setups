@@ -1,7 +1,6 @@
 {
   "name": "codepens",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -47,5 +46,14 @@
     "@babel/runtime": "^7.7.7",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezezezezez/codepen_setups.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ezezezezez/codepen_setups/issues"
+  },
+  "homepage": "https://github.com/ezezezezez/codepen_setups#readme",
+  "description": ""
 }
